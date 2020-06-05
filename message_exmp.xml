@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><messages>
+    <message from="you@mail.com" id="1" moment="15:29:05 05-06-2020" to="me@mail.com">Hello!</message>
+    <message from="four@mail.com" id="2" moment="15:30:26 05-06-2020" to="you@mail.com">Wats up ?</message>
+    <message from="you@mail.com" id="3" moment="15:30:45 05-06-2020" to="four@mail.com">Okay</message>
+</messages>
+
